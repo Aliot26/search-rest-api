@@ -1,6 +1,7 @@
 package com.volha.searchrestapi.service;
 
 import com.volha.searchrestapi.entity.Product;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
